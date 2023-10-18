@@ -37,10 +37,15 @@ Detection of fires based on color and shape analysis.
 Usage
 
 1.Upon running the program, you will be presented with a GUI window with a "Start" button.
+
 2.Click the "Start" button to initiate the fire detection process. The system will capture video from the default camera (usually the built-in webcam) and start analyzing it for fires.
+
 3.Adjust the zoom level using the following key commands:
+
         Press '1' to zoom in (increases zoom scale).
         Press '2' to zoom out (decreases zoom scale).
+        
 4.The system will detect and highlight fires in the video stream in purple color. The number of detected fires is displayed in the top-left corner.
+
 5.To exit the program, close the GUI window or press the "Exit" button.
 
