@@ -9,7 +9,7 @@ This project was developed as part of the Hackhaton 2022/2023 competition.
 
 To get started with this fire detection system, you will need to have Python and a few libraries installed. You can follow these steps to set up the project:
 
-1.Clone the Repository 
+1. Clone the Repository 
 
 Clone this repository to your local machine using Git:
 
