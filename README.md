@@ -5,7 +5,7 @@ This Python project is a fire detection system that uses computer vision techniq
 
 This project was developed as part of the Hackhaton 2022/2023 competition.
 
-Getting Started
+**Getting Started**
 
 To get started with this fire detection system, you will need to have Python and a few libraries installed. You can follow these steps to set up the project:
 
@@ -27,14 +27,14 @@ Execute the main Python script to start the fire detection system:
 
     python fire_detection.py
 
-Features
+**Features**
 
 Real-time fire detection using computer vision techniques.
 Adjustable zoom level for focusing on specific areas.
 Graphical user interface for user interaction.
 Detection of fires based on color and shape analysis.
 
-Usage
+**Usage**
 
 1.Upon running the program, you will be presented with a GUI window with a "Start" button.
 
